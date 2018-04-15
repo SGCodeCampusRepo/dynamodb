@@ -15,7 +15,7 @@ $ pip3 install aws-cli
 $ yarn add aws-sdk uuid
 ```
 
-5. Add your AWS credentials obtained from class and ammend the JavaScript files accordingly.
+5. Add your **AWS credentials** obtained from class and ammend the JavaScript files accordingly.
 
 6. You can now run each of the example files using ```node```
 ```bash
